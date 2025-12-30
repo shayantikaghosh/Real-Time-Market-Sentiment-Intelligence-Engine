@@ -1,0 +1,4 @@
+pathway
+python-dotenv
+openai
+requests
